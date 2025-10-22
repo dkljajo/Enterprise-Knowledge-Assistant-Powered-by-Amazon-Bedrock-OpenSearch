@@ -1,0 +1,1 @@
+# Enterprise-Knowledge-Assistant-Powered-by-Amazon-Bedrock-OpenSearch
