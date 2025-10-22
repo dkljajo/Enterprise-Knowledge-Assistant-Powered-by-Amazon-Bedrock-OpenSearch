@@ -18,7 +18,7 @@ It started as a simple proof-of-concept to let sales reps *ask natural language 
 
 The original version focused on functionality and AI integration.
 
-![Base Architecture](1.png)
+![Base Architecture](1.jpg)
 
 **Flow:**
 1. Sales representatives upload reports (PDF/CSV) to **Amazon S3**.
@@ -32,7 +32,7 @@ The original version focused on functionality and AI integration.
 
 After learning from early tests, we hardened the design for enterprise deployment — ensuring compliance, encryption, and private networking.
 
-![Secure Architecture](2.png)
+![Secure Architecture](2.jpg)
 
 **Security Additions:**
 - ✅ **S3 SSE-KMS Encryption**
